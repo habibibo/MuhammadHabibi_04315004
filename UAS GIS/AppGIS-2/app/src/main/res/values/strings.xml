@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MAP GIS</string>
+    <string name="title_activity_maps">Jl Mastrip</string>
+    <string name="title_activity_maps2">Jl Ahmad Yani</string>
+    <string name="title_activity_maps3">Jl Mastrip via sqlite</string>
+    <string name="button1">Button 1</string>
+
+</resources>

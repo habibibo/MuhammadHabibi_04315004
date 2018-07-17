@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnMapI"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:text="Jl MERR" />
+
+        <Button
+            android:id="@+id/btnMapN"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:text="Jl Ahmad Yani" />
+
+        <Button
+            android:id="@+id/btnApiDriyorejo"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:text="Jl Diponegoro" />
+        <Button
+            android:id="@+id/btnsqlitemastrip"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:text="Jl Raya Mastrip SQLite" />
+
+        <Button
+            android:id="@+id/btnClear"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:text="Clear All" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
